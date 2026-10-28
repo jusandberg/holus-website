@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/jusandberg/holus-nutrition",
+  "branch": "main",
+  "commit": "c0f35eb4328406a46f8bb670ffdd219279c80323",
+  "commit_date": "2026-10-26T13:42:52Z",
+  "purpose": "Owner-private preview, not a public domain launch",
+  "original_content": "All delivered website files byte-identical to the source commit. Non-runtime repository metadata/tests and CNAME not deployed.",
+  "local_only_changes": "Not verified; user laptop access unavailable."
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /brand-guide.html
+
+Sitemap: https://holus.ca/sitemap.xml
